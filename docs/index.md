@@ -14,5 +14,5 @@ Pro uplnou dokumentaci navštivte [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        maturita.md  # seznam otázek k maturitě z ČJ
+        maturita.md  # seznam otázek k maturitě z Pg
         hodina.md  # popis hodiny z webových aplikacích 

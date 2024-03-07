@@ -2,7 +2,7 @@ site_name: Michael Vakula
 
 nav:
   - Home: 'index.md'
-  - Maturita ČJ: 'maturita.md'
+  - Maturita PG: 'maturita.md'
   - WA hodina: 'hodina.md'
 
 theme: readthedocs
